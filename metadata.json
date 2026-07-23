@@ -1,0 +1,5 @@
+{
+  "name": "Sync Beats - Foundational Engine",
+  "description": "Foundational code for real-time audio synchronization and room management using Socket.io and Redis.",
+  "requestFramePermissions": []
+}
